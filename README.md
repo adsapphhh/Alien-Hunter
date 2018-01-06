@@ -21,7 +21,7 @@ LGPL-2.1
 
 Technical support
 
-shenshi@gmail.com
+jenniferhill@gmai.com
 
 juggle:https://github.com/qianqians/juggle
 
