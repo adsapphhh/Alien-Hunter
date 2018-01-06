@@ -1,6 +1,6 @@
 # Alien-Hunter
 The extraterrestrial hunter, in the game, you are the hunter, you have to use your gun to eliminate the aliens in the air and on the land, collect all the stars and get high marks. Come on, here prove you are the bravery of the hunter!
-
+![Alt text](https://github.com/chenyufeng1991/NewsClient/raw/master/Screenshots/2.png)
 Framework
 
 Center center server
